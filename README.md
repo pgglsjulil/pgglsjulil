@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Arya Gunavaro Goberto</h1>
-<h3 align="center">A people who loves frontend dev and ctf</h3>
+# < Hello World 👋 />
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adyulilamri/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adyulila/)
