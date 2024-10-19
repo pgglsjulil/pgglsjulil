@@ -28,7 +28,7 @@ class About extends Me {
   }
 }
 ```
-
+<img align="right" width=350px height=197px src="https://4.bp.blogspot.com/-G62v5yEBEFw/Wkh2kTr1t0I/AAAAAAAAChw/hIhhuFghCPcQ5rQ0sV_9CWWJ8dQT5sLUACLcBGAs/s400/TypingonComputer.gif" style="max-width: 100%;">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
