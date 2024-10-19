@@ -45,5 +45,3 @@ class About extends Me {
   <a href="https://portswigger.net/burp"> <img src="https://portswigger.net/content/images/logos/favicon.ico" alt="burpsuite" width="40" height="40"/> </a>
   <a href="https://www.wireshark.org"> <img src="https://www.wireshark.org/assets/icons/favicon.ico" alt="wireshark" width="40" height="40"/> </a>
 </p>
-
-<img align="right" width=400px height=225px src="https://github-readme-streak-stats.herokuapp.com/?user=pgglsjulil#version3"/>
