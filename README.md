@@ -24,6 +24,8 @@
   <a href="https://www.codewars.com/users/pgglsjulil"><img src="https://www.codewars.com/users/pgglsjulil/badges/small">
 </p>
 
+<br>
+
 ```javascript
 class About extends Me {
   constructor() {
