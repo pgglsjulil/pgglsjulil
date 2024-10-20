@@ -23,3 +23,22 @@
   <br>
   <a href="https://www.codewars.com/users/pgglsjulil"><img src="https://www.codewars.com/users/pgglsjulil/badges/small">
 </p>
+
+```javascript
+class About extends Me {
+  constructor() {
+    this.name = "Ady Ulil Amri";
+    this.pronouns = "He" | "Him";
+    this.address = "Bulukumba, Sulawesi Selatan, Indonesia";
+    this.school = "Hasanuddin University";
+  }
+
+  function getDescriptions(){
+    return `Hi, my name is ${this.name}, currently I am a student at ${this.school}. I really enjoy when writing code and playing CTF, because it's like playing a game`;
+  }
+
+  function getFutureGoal(){
+    return "To become a person who benefits others";
+  }
+}
+```
