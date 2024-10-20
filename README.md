@@ -1,33 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ady Ulil Amri</h1>
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adyulilamri/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adyulila/)
-[![Gmail Badge](https://img.shields.io/badge/EMAIL-FE7A16?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adyulilamri2@gmail.com)
-
-</div>
-
-# Who is me ? 🤨
-
-```javascript
-class About extends Me {
-  constructor() {
-    this.name = "Ady Ulil Amri";
-    this.pronouns = "He" | "Him";
-    this.address = "Bulukumba, Sulawesi Selatan, Indonesia";
-    this.school = "Hasanuddin University";
-  }
-
-  function getDescriptions(){
-    return `Hi, my name is ${this.name}, currently I am a student at ${this.school}. I really enjoy when writing code and playing CTF, because it's like playing a game`;
-  }
-
-  function getFutureGoal(){
-    return "To become a person who benefits others";
-  }
-}
-```
+<h3 align="center">A person who aims to benefit others.</h3>
 <img align="right" width=350px height=197px src="https://4.bp.blogspot.com/-G62v5yEBEFw/Wkh2kTr1t0I/AAAAAAAAChw/hIhhuFghCPcQ5rQ0sV_9CWWJ8dQT5sLUACLcBGAs/s400/TypingonComputer.gif" style="max-width: 100%;">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pgglsjulil&label=Profile%20views&color=0e75b6&style=flat" alt="pgglsjulil" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
